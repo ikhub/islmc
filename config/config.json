@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4f1A33b6fb1495bd415060679de675489B86aE1C",
+  "SCAN_LINK": "https://explorer.haqq.network/address/0x4f1A33b6fb1495bd415060679de675489B86aE1C",
+  "NETWORK": {
+    "NAME": "Haqq Network",
+    "SYMBOL": "ISLM",
+    "ID": 11235
+  },
+  "NFT_NAME": "Islamic Coin Commemorative NFT",
+  "SYMBOL": "ISLMC",
+  "MAX_SUPPLY": 1234,
+  "WEI_COST": 501000000000000000000,
+  "DISPLAY_COST": 501,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": false
+}
